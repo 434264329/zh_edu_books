@@ -1,4 +1,4 @@
-# 高中教材资源库 📚
+# 中小学教材资源库 📚
 
 ![Update Status](https://img.shields.io/badge/更新-进行中-brightgreen)
 
